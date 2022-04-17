@@ -18,19 +18,15 @@ The initiative is meant to help the higher education institutions respond to the
 ### Як отримати доступ?
 1. Переходимо на [головну сторінку Coursera](https://www.coursera.org/).
 2. Обираємо _"For Universities"_ у меню зправа зверху для переходу до кампуса.
-
-![](sources/main-page.png)
+</br> ![](sources/main-page.png)
 4. Обираємо _"For Students"_ у меню зправа зверху.
-
-![](sources/campus-page.png)
+</br> ![](sources/campus-page.png)
 5. Вводимо пошту з домену свого ВНЗ та натискаємо _"Start"_. Робимо декілька кліків та отримуємо лист на вказану вами пошту.
-
-![](sources/email-confirmation.png)
+</br> ![](sources/email-confirmation.png)
 6. Підтверджуємо адрес своєї пошти у листі та повертаємось назад до Coursera Campus, де ви вказували пошту. 
 7. Coursera повинна додати підтверджену пошту до вашого акаунту.
 8. Вказуємо що ви студент, проходимо до кінця і потенційно отримуємо повідомлення про те що місць на доступ до вашого ВНЗ вже немає :(
-
-![](sources/uni-rejection.jpg)
+</br> ![](sources/uni-rejection.jpg)
 9. Закриваємо вікно. Насправді ж передбачені програмою курси стали для вас безкоштовні. 
 
 ### Приклад спеціалізації, що повинна стати доступною
